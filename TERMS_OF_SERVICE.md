@@ -1,6 +1,6 @@
 # Terms of Use — Wisp
 
-**Last updated: March 29, 2026**
+**Last updated: September 12, 2026**
 
 ## Agreement
 
@@ -9,6 +9,7 @@ By downloading or using Wisp ("the app"), you agree to these Terms of Use. If yo
 ## Description of Service
 
 Wisp is a meeting AI assistant that:
+
 - Records audio from your device's microphone
 - Transcribes speech using Apple Speech Recognition
 - Generates meeting notes using third-party AI providers
@@ -17,13 +18,16 @@ Wisp is a meeting AI assistant that:
 
 ## Subscription
 
-### Free Trial
-- Wisp offers a **7-day free trial** with full access to all features.
-- The trial begins when you first subscribe.
-- If you do not cancel before the trial ends, your subscription will automatically convert to a paid plan.
+### Free Use
+
+- Your first meeting is free with full access: recording, transcription, AI notes and chat.
+- After that, transcribing and generating notes for further meetings requires an active subscription. You can still record and import audio without a subscription; the recordings are kept and can be transcribed once you subscribe. Meetings you have already processed remain fully available.
+- In storefronts where the subscription is not offered (Russia, Belarus), all features remain free.
 
 ### Paid Plans
+
 Wisp offers the following auto-renewable subscription plans:
+
 - **Weekly**: $1.99 per week
 - **Monthly**: $4.99 per month
 - **Yearly**: $29.99 per year
@@ -31,27 +35,32 @@ Wisp offers the following auto-renewable subscription plans:
 Prices may vary by region and are displayed in your local currency in the app.
 
 ### Payment & Renewal
+
 - Payment is charged to your Apple ID account at confirmation of purchase.
 - Subscription automatically renews unless turned off at least **24 hours before the end of the current period**.
 - Your account will be charged for renewal within 24 hours prior to the end of the current period.
 - The renewal cost equals the price of the current plan.
 
 ### Managing Subscriptions
+
 - You can manage or cancel your subscription in your **Apple ID Account Settings** → Subscriptions.
 - Cancellation takes effect at the end of the current billing period — you retain access until then.
 - No refunds are provided for unused portions of a subscription period.
 
 ### Restore Purchases
+
 - You can restore previous purchases using the "Restore Purchases" button in the app's Settings or Paywall screen.
 
 ## API Keys & Third-Party Services
 
 ### Your Responsibility
-- You are responsible for obtaining and managing your own API keys from third-party AI providers (OpenAI, Anthropic, xAI, DeepSeek).
+
+- You are responsible for obtaining and managing your own API keys from third-party AI providers (OpenRouter, OpenAI, Anthropic, DeepSeek).
 - You must comply with the terms of service of whichever AI provider you choose to use.
 - API usage costs from third-party providers are **your responsibility** and are separate from the Wisp subscription.
 
 ### No Warranty for AI Output
+
 - AI-generated meeting notes, summaries, and chat responses are provided "as is."
 - We do not guarantee the accuracy, completeness, or reliability of AI-generated content.
 - You should review AI-generated notes before relying on them for important decisions.
@@ -65,6 +74,7 @@ Prices may vary by region and are displayed in your local currency in the app.
 ## Acceptable Use
 
 You agree not to:
+
 - Use the app for any unlawful purpose
 - Record conversations without the consent of all participants where required by law
 - Attempt to reverse engineer, modify, or create derivative works of the app
